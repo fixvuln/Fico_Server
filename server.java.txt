@@ -45,4 +45,6 @@
     <!-- ... -->
 </body>
 
+Copyright by Fair Isaac Corporation 2020 
+
 </jnlp>                                   
