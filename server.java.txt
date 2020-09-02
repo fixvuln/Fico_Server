@@ -27,6 +27,11 @@
            "webstartComponentArch.DynamicTreeApplication"
          width="300"
          height="300">
+	 
+	 server IP: 10.23.43.86
+	 Server Login User Name= da872929
+	 password=admin1234
+	 
      </application-desc>
      <update check="background"/>
 	 
